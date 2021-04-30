@@ -1,0 +1,7 @@
+C:\Users\Sony Vaio\source\repos\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\IteratorsAndComparators.exe.config
+C:\Users\Sony Vaio\source\repos\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\IteratorsAndComparators.exe
+C:\Users\Sony Vaio\source\repos\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\IteratorsAndComparators.pdb
+C:\Users\Sony Vaio\source\repos\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\IteratorsAndComparators.csprojAssemblyReference.cache
+C:\Users\Sony Vaio\source\repos\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+C:\Users\Sony Vaio\source\repos\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\IteratorsAndComparators.exe
+C:\Users\Sony Vaio\source\repos\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\IteratorsAndComparators.pdb

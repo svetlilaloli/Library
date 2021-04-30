@@ -30,6 +30,7 @@ namespace IteratorsAndComparators
             {
                 Reset();
                 this.books = new List<Book>(books);
+                //this.books.Sort((x, y) => x.CompareTo(y));
                 this.books.Sort((x, y) => new BookComparator().Compare(x, y));
             }
             public Book Current => books[currentIndex];
